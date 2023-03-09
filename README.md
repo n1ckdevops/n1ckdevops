@@ -1,4 +1,4 @@
-<h1 align="center">Hi (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Nick Kuchinsky</h1>
+<h1 align="center">Hi(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),I'm Nick Kuchinsky</h1>
 <h3 align="center">I am a junior Python developer with a passion for coding and problem-solving. I am always eager to learn new technologies and implement them in my projects. I strive to create clean, organized, and well-documented code that is easy to read and maintain. I love collaborating with others and sharing my ideas to improve code and solve complex problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1ckdevops&label=Profile%20views&color=0e75b6&style=flat" alt="n1ckdevops" /> </p>
