@@ -8,8 +8,8 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **nickdevops6@gmail.com**
+- ⚡ Fun fact ** Backend, books, music, self-development **
 
-- ⚡ Fun fact **drums, drawing,teaching English - theeeee by far best**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
