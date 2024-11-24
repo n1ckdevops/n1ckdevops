@@ -11,10 +11,6 @@ Frontend developer who has a passion to build easy-to-use products.<br><br>🔭 
 ![](https://github-readme-stats.vercel.app/api?username=n1ckdevops&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=n1ckdevops&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n1ckdevops&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=n1ckdevops&icon=2&color=2)](https://visitcount.itsvg.in)
 
