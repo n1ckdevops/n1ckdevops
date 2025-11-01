@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend developer who has a passion to build easy-to-use products.<br><br>🔭 I’m currently working on educating platform<br>🌱 I’m currently learning TypeScript, Redux<br>💬 Ask me about CS.<br>
+Frontend developer who has a passion to build easy-to-use products.<br>🌱 I’m currently learning TypeScript, Redux<br>💬 Ask me about CS.<br>
 
 
 # 💻 Tech Stack:
